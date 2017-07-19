@@ -1,0 +1,4 @@
+shading flat
+ambient 0 0 255
+sphere 250 250 0 200
+display
